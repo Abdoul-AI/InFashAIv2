@@ -1,6 +1,6 @@
 # Inclusive Fashion AI project v2 (InFashAIv2)
 
-<img align="right" src="https://github.com/hgilles06/infashai/blob/main/Image_18678.jpg?raw=true " width="200" height="300" />
+<img align="right" src="https://github.com/hgilles06/infashaiv2/blob/main/Image_18678.jpg?raw=true " width="200" height="300" />
 
 We are happy to release the second dataset of the InFashAI initiative (InFashAIv2). The first version (InFashAIv1) was released  [here](https://github.com/hgilles06/infashai). 
 
