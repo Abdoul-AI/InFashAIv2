@@ -15,8 +15,7 @@ AI technologies are revolutionizing every industry and forcing key industry play
 However, available datasets need to be more diversified as they are generally western-centric. Indeed, AI models trained with under-diversified datasets have limited generalization capabilities. Therefore they may not perform well for African fashion styles, limiting the adoption of AI technologies within the African fashion industry.
 To allow African fashion to benefit from the potential of AI, Ai4Innov initiated the Inclusive Fashion AI research project (InFashAI), which aims to create datasets and build models that are much more representative of the fashion world's diversity. Our first goal is to create a large volume of data on African fashion by gathering scattered data accessible online using web scraping methods.
 
-
-## Usage
+## Use cases
 This dataset should only be used for research purposes. We would appreciate your feedback regarding use cases powered by the dataset. 
 InFashAIv2 can potentially be used to build AI tools for (i) fashion image captioning and (ii) realistic fashion image generation from text tailored toward African fashion.
 
