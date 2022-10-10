@@ -1,7 +1,7 @@
 # Inclusive Fashion AI project v2 (InFashAIv2)
 <img align="right" src="https://github.com/hgilles06/infashaiv2/blob/main/Image_18678.jpg?raw=true " width="200" height="300" />
 
-We are happy to release the second dataset of the InFashAI initiative (InFashAIv2). InFashAIv2 contains 60,636 images with their descriptions.The first version (InFashAIv1) was released  [here](https://github.com/hgilles06/infashai)and contains 15,716 images.
+We are happy to release the second dataset of the InFashAI initiative (InFashAIv2). InFashAIv2 contains 60,636 images with their descriptions.The first version (InFashAIv1) was released [here](https://github.com/hgilles06/infashai) and contains 15,716 images.
 To access the dataset, please download the CSV table [here](https://drive.google.com/file/d/14CeDWPJA4EhCuvK-VTjznRTLWayaRFms/view?usp=sharing). This dataset contains three columns:
 
 1-**image_name**: the name of the image file
