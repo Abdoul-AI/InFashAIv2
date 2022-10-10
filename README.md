@@ -22,3 +22,6 @@ InFashAIv2 can potentially be used to build AI tools for (i) fashion image capti
 
 ## Disclaimer
 We do our best to ensure that the dataset does not contain malicious or biased data. However, due to the large volume of data, we could not perform a manual check of the whole dataset. Consequently, inappropriate images and/or descriptions might be present in the dataset. We would be delighted to have your feedback about any data point you think might be inappropriate.
+
+## Citation
+@article{hacheme2021neural, title={Neural Fashion Image Captioning: Accounting for Data Diversity}, author={Hacheme, Gilles and Sayouti, Noureini}, journal={arXiv preprint arXiv:2106.12154}, year={2021} }
